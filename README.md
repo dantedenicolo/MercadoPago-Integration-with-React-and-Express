@@ -21,7 +21,7 @@ You can try this integration live in [https://mpintegration.dantu.me/](https://m
 
 ```bash
   cd Client
-  npm Install
+  npm install
   cd ../
 ```
 
