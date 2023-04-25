@@ -1,8 +1,14 @@
 # MercadoPago integration with React and Express
 
+![MercadoPago integration project image](https://raw.githubusercontent.com/dantedenicolo/MercadoPago-Integration-with-React-and-Express/main/preview.png)
+
 MercadoPago has one of the hardest payment integrations for developers but not because of how hard it is to code it, but because of it's very bad explained documentation. In this project, I try to explain the best as I can the step-by-step process to integrate MercadoPago's checkout to React and Express.
 
 #### All the explanation is in the code written with comments.
+
+## Live Deploy
+
+You can try this integration live in [https://mpintegration.dantu.me/](https://mpintegration.dantu.me/).
 
 ## Clone the repo
 
