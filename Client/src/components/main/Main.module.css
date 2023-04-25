@@ -1,0 +1,53 @@
+.main {
+    max-width: 80%;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.products {
+    width: 100%;
+    padding: 50px 0;
+}
+
+.products h2 {
+    color: rgb(103, 166, 208);
+    font-size: 1.5rem;
+}
+
+.products .container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 30px;
+}
+
+.products .container .card {
+    border-radius: 20px;
+    height: 500px;
+}
+
+.products .container .card h4 {
+    padding-bottom: 20px;
+}
+
+.products .container .card img {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.products .container .card button {
+    margin-top: 20px;
+    background-color: rgb(103, 166, 208);
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.products .container .card button:hover {
+    opacity: 0.7;
+    transform: scale(1.05);
+}
