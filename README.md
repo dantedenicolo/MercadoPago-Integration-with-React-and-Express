@@ -35,7 +35,7 @@ First open the project with your code editor. You can do it manually or from you
     code .
 ```
 
-Then go to the 'Server' folder and open the '.env' file. Follow instructions written in comments and set your MercadoPago Access Token.
+#### Then go to the 'Server' folder and open the '.env' file. Follow instructions written in comments and set your MercadoPago Access Token. This step is VERY IMPORTANT because if the token is not set, the integration won't work at all.
 
 Finally, you can run both Server and Client sides. If you don't know how, follow these steps:
 
