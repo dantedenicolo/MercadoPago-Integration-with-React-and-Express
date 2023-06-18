@@ -6,9 +6,6 @@ MercadoPago has one of the hardest payment integrations for developers but not b
 
 #### All the explanation is in the code written with comments.
 
-## Live Deploy
-
-You can try this integration live in [https://mpintegration.dantu.me/](https://mpintegration.dantu.me/).
 
 ## Clone the repo
 
