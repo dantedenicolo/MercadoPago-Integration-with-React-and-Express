@@ -74,6 +74,5 @@ If you liked this repo, you can leave your star to help me.
 
 ## Connect with me:
 
-- [Twitter](https://twitter.com/dantutu_)
 - [Instagram](https://instagram.com/dantedenicolo)
 - [LinkedIn](https://www.linkedin.com/in/dantedenicolo/)
